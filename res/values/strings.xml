@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, AgendaSampleActivity!</string>
+    <string name="app_name">AgendaSample</string>
+    <string name="list_contacts">List Contacts</string>
+    <string name="add_contact">Add Contacts</string>
+    <string name="txt_contacts_list">Contacts list</string>
+
+</resources>
