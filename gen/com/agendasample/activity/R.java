@@ -14,19 +14,23 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int Button02=0x7f050004;
-        public static final int addContact=0x7f050003;
-        public static final int listContacts=0x7f050002;
-        public static final int textView1=0x7f050000;
-        public static final int txt_contact_lists=0x7f050001;
+        public static final int Button02=0x7f050006;
+        public static final int addContact=0x7f050005;
+        public static final int btnSave=0x7f050001;
+        public static final int listContacts=0x7f050004;
+        public static final int textView1=0x7f050002;
+        public static final int txtDni=0x7f050000;
+        public static final int txt_contact_lists=0x7f050003;
     }
     public static final class layout {
-        public static final int list_contacts=0x7f030000;
-        public static final int main=0x7f030001;
+        public static final int add_contacts=0x7f030000;
+        public static final int list_contacts=0x7f030001;
+        public static final int main=0x7f030002;
     }
     public static final class string {
         public static final int add_contact=0x7f040003;
         public static final int app_name=0x7f040001;
+        public static final int btn_save=0x7f040005;
         public static final int hello=0x7f040000;
         public static final int list_contacts=0x7f040002;
         public static final int txt_contacts_list=0x7f040004;

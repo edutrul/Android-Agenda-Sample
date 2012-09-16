@@ -31,6 +31,11 @@ public class AgendaSampleActivity extends Activity {
     	startActivity(intent);
     	
     }
+    
+    public void add_contacts(View view) {
+    	Intent intent = new Intent(this, AddContactsActivity.class);
+    	startActivity(intent);
+    }
 
 
 }

@@ -20,6 +20,7 @@
         android:id="@+id/addContact"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:onClick="add_contacts"
         android:text="@string/add_contact" />
 
     <Button
